@@ -22,16 +22,12 @@
 <a href="https://m.facebook.com/GaDevMahmoudRahim" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Abd%20El%20Rahim-0077B5?style=for-the-badge&logo=FaceBook&logoColor=white"/></a>
 <a href="https://twitter.com/MahmmoudRahim" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Abd%20El%20Rahim-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
-### 🛠 &nbsp;Game Development Tech
-![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=Unity)&nbsp;
-![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-05122A?style=flat&logo=UnrealEngine)&nbsp;
+### 🛠 &nbsp; Development Tech & Tools
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=VisualStudioCode)&nbsp;
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp;
 ![CPlusPlus](https://img.shields.io/badge/-CPlusPlus-05122A?style=flat&logo=CPlusPlus)&nbsp;
-![BluePrint](https://img.shields.io/badge/-Blue%20Print-05122A?style=flat&logo=BluePrint)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=Microsoft%20SQL%20Server)
-![Web Gl](https://img.shields.io/badge/-Web%20Gl-05122A?style=flat&logo=WebGl)
-![Blender](https://img.shields.io/badge/-Blender-05122A?style=flat&logo=Blender)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
