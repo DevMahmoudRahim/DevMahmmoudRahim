@@ -21,7 +21,7 @@
 <a href="https://t.me/GD_Mahmoud_Rahim" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Abd%20El%20Rahim-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="https://m.facebook.com/GaDevMahmoudRahim" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Abd%20El%20Rahim-0077B5?style=for-the-badge&logo=FaceBook&logoColor=white"/></a>
 <a href="https://x.com/MahmmoudRahim" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Abd%20El%20Rahim-0077B5?style=for-the-badge&logo=X&logoColor=white"/></a>
-<a href="https://wa.me/+201062470388" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Abd%20El%20Rahim-0077B5?style=for-the-badge&logo=What'sApp&logoColor=white"/></a>
+<a href="https://wa.me/+201062470388" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Abd%20El%20Rahim-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 
 ### 🛠 &nbsp; Development Tech & Tools
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
