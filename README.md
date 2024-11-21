@@ -11,26 +11,44 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🎮 I'm a Backend Developer Using ASP.NET CORE 8.
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🎮 Software Engineer specializing in backend development with **ASP.NET CORE**.
+- 🎓 Bachelor’s in Computer Science, Class of 2024.
+- 👨‍💻 Currently enhancing my skills in **RESTful APIs** and **MVC** architecture.
 - 💬 Ask me about my experience with API's, .Net Applications or anything related to Backend development.
+---
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Things I code</b>
+<br/>
 
-### Connect with Me :
-<a href="https://linkedin.com/in/mahmoud-rahim-20" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Abd%20El%20Rahim-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wa.me/+201062470388" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Abd%20El%20Rahim-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
-<a href="https://t.me/GD_Mahmoud_Rahim" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Abd%20El%20Rahim-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<a href="https://m.facebook.com/GaDevMahmoudRahim" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Abd%20El%20Rahim-0077B5?style=for-the-badge&logo=FaceBook&logoColor=white"/></a>
-<a href="https://x.com/MahmmoudRahim" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Abd%20El%20Rahim-0077B5?style=for-the-badge&logo=X&logoColor=white"/></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 
+---
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Coding Tools </b>
+<br/>
 
-
-### 🛠 &nbsp; Development Tech & Tools
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio&logoColor=007ACC)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=VisualStudioCode)&nbsp;
-![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp)&nbsp;
-![CPlusPlus](https://img.shields.io/badge/-CPlusPlus-05122A?style=flat&logo=CPlusPlus)&nbsp;
-![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=Microsoft%20SQL%20Server)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-05122A?style=flat&logo=visualstudio)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?style=flat&logo=VisualStudioCode&)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL%20Server-05122A?style=flat&logo=SQLServer)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![PostMan](https://img.shields.io/badge/-PostMan-05122A?style=flat&logo=postman)&nbsp;
+<!--![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;-->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GaDevRahim&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+<br>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevMahmoudRahim&show_icons=true&locale=en&layout=compact&theme=radical" />  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DevMahmoudRahim&show_icons=true&locale=en&layout=compact&theme=radical" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMahmoudRahim&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />  
+<b>Connect with Me :</b> 
+<a href="https://linkedin.com/in/mahmoud-rahim-20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/></a>
+<a href="https://leetcode.com/u/MahmoudRhim/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"></a>
+<a href="https://wa.me/+201062470388" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" /></a>
+<a href="https://x.com/MahmmoudRahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://m.facebook.com/GaDevMahmoudRahim" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
+
+
+</p>
